@@ -1,0 +1,7 @@
+com\example\LogService\Log.class
+com\example\LogService\LogServiceApplication.class
+com\example\LogService\FeignClients\UserServiceClient.class
+com\example\LogService\LogService.class
+com\example\LogService\LogController.class
+com\example\LogService\LogRepository.class
+com\example\LogService\FeignClients\TestServiceClient.class
