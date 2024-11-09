@@ -1,0 +1,8 @@
+com\example\MainService\FeignClients\TestServiceClient.class
+com\example\MainService\Controllers\UserController.class
+com\example\MainService\FeignClients\UserServiceClient.class
+com\example\MainService\Controllers\LogController.class
+com\example\MainService\Controllers\TestController.class
+com\example\MainService\Controllers\MainController.class
+com\example\MainService\FeignClients\LogServiceClient.class
+com\example\MainService\MainServiceApplication.class
