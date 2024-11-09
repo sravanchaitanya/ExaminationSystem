@@ -1,0 +1,5 @@
+com\example\TestService\Test.class
+com\example\TestService\TestRepository.class
+com\example\TestService\ViewController.class
+com\example\TestService\TestService.class
+com\example\TestService\TestServiceApplication.class
